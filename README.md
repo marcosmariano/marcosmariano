@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosmariano
 - 👀 I'm interested in program languages, software architectures and solutions architectures
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang and Reactive Programs
 
 <!---
 marcosmariano/marcosmariano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
